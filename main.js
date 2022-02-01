@@ -13,7 +13,7 @@ console.log(fullName);
 let greet =`Hello I'm ${fullName} and I'm ${ageInMonths}  old`
 console.log(greet);
 
-let c=19
+const c=19
 
-f=1.8 * c + 32
+const f=1.8 * c + 32
 console.log(f);
