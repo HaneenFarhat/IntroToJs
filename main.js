@@ -17,3 +17,14 @@ const c=19
 
 const f=1.8 * c + 32
 console.log(f);
+
+
+
+let count=0
+while(count <=1000){
+    console.log(count);
+    count=count+1
+
+}
+
+console.log(`finish the counting`);
